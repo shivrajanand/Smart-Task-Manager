@@ -70,10 +70,12 @@ C:.
 ---
 
 ## 📸 Screenshots
+> ![Dashboard Preview] (Screenshots/Screenshot 2025-03-11 180003.png)
+> ![Dashboard Preview] (Screenshots/Screenshot 2025-03-11 180408.png)
+> ![Task Description] (Screenshots/Screenshot 2025-03-11 180414.png)
+> ![Right Click Facility] (Screenshots/Screenshot 2025-03-11 180425.png)
+> ![Light Mode] (Screenshots/Screenshot 2025-03-11 180503.png)
 
-> *(You can add GIFs or screenshots here later)*  
-> Ex:  
-> ![Dashboard Preview](screenshots/dashboard.png)
 
 ---
 
@@ -96,4 +98,4 @@ Let’s connect!
 
 ## 📄 License
 
-MIT License — free to use, share, and modify.
+This project is licensed under the [MIT License](LICENSE).
