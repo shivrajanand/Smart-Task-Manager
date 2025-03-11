@@ -71,11 +71,11 @@ C:.
 
 ## 📸 Screenshots
 
-![Dashboard Preview](Screenshots/Screenshot 2025-03-11 180003.png)
-![Dashboard Preview](Screenshots/Screenshot 2025-03-11 180408.png)
-![Task Description](Screenshots/Screenshot 2025-03-11 180414.png)
-![Right Click Facility](Screenshots/Screenshot 2025-03-11 180425.png)
-![Light Mode](Screenshots/Screenshot 2025-03-11 180503.png)
+![Dashboard Preview](Screenshots/1.png)
+![Dashboard Preview](Screenshots/2.png)
+![Task Description](Screenshots/3.png)
+![Right Click Facility](Screenshots/4.png)
+![Light Mode](Screenshots/5.png)
 
 
 ---
